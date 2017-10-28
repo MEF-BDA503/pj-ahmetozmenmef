@@ -5,5 +5,5 @@
 + [Here](files/interesting_examples.html) is my 5 interesting R examples. 
 
 # HR Exploratory Analysis
-## Week 2 (Oct 10)
+## 28.10.2017
 + [Here](files/hr.html) is HR Exploratory Analysis 

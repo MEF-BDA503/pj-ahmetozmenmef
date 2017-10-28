@@ -7,3 +7,5 @@
 # HR Exploratory Analysis
 ## 28.10.2017
 + [Here](files/HR.html) is HR Exploratory Analysis 
++ [Here](files/Udactiy_Report.html) is udacity course report
+

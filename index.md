@@ -6,4 +6,4 @@
 
 # HR Exploratory Analysis
 ## 28.10.2017
-+ [Here](files/hr.html) is HR Exploratory Analysis 
++ [Here](files/HR.html) is HR Exploratory Analysis 

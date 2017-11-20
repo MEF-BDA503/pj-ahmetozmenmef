@@ -5,7 +5,7 @@
 + [Here](files/interesting_examples.html) is my 5 interesting R examples. 
 
 # HR Exploratory Analysis
-## 28.10.2017
 + [Here](files/HR.html) is HR Exploratory Analysis 
+# Udacity Report
 + [Here](files/Udactiy_Report.html) is udacity course report
 

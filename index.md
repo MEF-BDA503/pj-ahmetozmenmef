@@ -9,3 +9,6 @@
 # Udacity Report
 + [Here](files/Udactiy_Report.html) is udacity course report
 
+# Diamonds Price Estimation
++ [Here](files/Diamonds_Price_Estimation.html) is  Diamonds Price Estimation
+

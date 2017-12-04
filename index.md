@@ -1,4 +1,4 @@
-# Example Progress Journal
+# Ahmet ÖZMEN
 
 ## Week 2 (Oct 10)
 

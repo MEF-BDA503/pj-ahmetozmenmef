@@ -12,5 +12,5 @@
 
 
 # Final 
-+ Question 3 of [data](files/Student Number.rds)
 + [Final Report](files/final.pdf)
++ Question 3 of data [Final Report](files/final.pdf)

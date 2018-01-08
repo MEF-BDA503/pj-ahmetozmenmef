@@ -10,3 +10,7 @@
 # Diamonds Price Estimation
 + [Here](files/Diamonds_Price_Estimation.html) is  Diamonds Price Estimation
 
+
+# Final 
++ Question 3 of [data](files/Student Number.rds)
++ [Final Report](files/final.pdf)
